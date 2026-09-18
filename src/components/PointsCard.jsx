@@ -1,0 +1,1 @@
+import {Coins} from 'lucide-react'; export default function PointsCard({points}){return <div className="points-card"><Coins/><div><span>Current balance</span><strong>{points.toLocaleString()} <small>points</small></strong></div></div>}

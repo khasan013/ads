@@ -1,0 +1,1 @@
+import {Link} from 'react-router-dom'; export default function Footer(){return <footer><div><b>✦ Luma</b><p>Transparent sponsored experiences and digital rewards.</p></div><div><Link to="/about">About</Link><Link to="/terms">Terms</Link><Link to="/privacy">Privacy</Link></div><small>© 2026 Luma. Prototype in demo mode.</small></footer>}

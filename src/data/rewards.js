@@ -1,0 +1,1 @@
+export const rewards=[['Premium Theme',150,'Personalize your workspace'],['Profile Badge',250,'Show your community status'],['VIP Access',500,'Unlock member-only previews'],['Extra Daily Reward',350,'Boost one future daily bonus'],['Premium Tools',750,'Try advanced platform tools']];
